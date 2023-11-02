@@ -7,7 +7,7 @@ Flutter package designed to simplify API request management by offering seamless
 Import the following package in your dart file
 
 ```dart
-import 'package:state_provider/state_provider.dart';
+import 'package:flutter_state_provider/flutter_state_provider.dart';
 ```
 
 ## Usage with when

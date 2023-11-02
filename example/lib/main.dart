@@ -1,4 +1,4 @@
-import 'package:flutter_state_provider/state_provider.dart';
+import 'package:flutter_state_provider/flutter_state_provider.dart';
 
 void main() {
   final StateProvider<String, Exception> currentState = StateProvider.loading();
