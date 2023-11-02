@@ -1,4 +1,4 @@
-name: state_provider
+name: flutter_state_provider
 description: package designed to simplify API request management by offering seamless handling of loading, success, and error states. Integrated with Provider.
 version: 0.0.1
 homepage: https://github.com/FadyFayezYounan/state_provider.git
